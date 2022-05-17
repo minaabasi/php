@@ -78,7 +78,7 @@
         </div>
         <span><?php echo $name;?></span>
         <div>
-            <label>ایمیل:</label>
+            <label>ایمیل: </label>
             <input type="text" name="email" >
         </div>
         <span><?php echo $email; ?></span>
