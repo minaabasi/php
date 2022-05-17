@@ -73,7 +73,7 @@
     <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?> " method="post" >
         <h2> فرم ثبت نام</h2>
         <div>
-            <label>نام:</label>
+            <label>نام: </label>
             <input type="text" name="name" >
         </div>
         <span><?php echo $name; ?></span>
