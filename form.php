@@ -71,7 +71,7 @@
 </head>
 <body>
     <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?> " method="post" >
-        <h2> ثبت نام</h2>
+        <h2> فرم ثبت نام</h2>
         <div>
             <label>نام:</label>
             <input type="text" name="name" >
